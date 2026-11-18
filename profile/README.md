@@ -10,9 +10,9 @@ Nuestra visión es que los sistemas digitales faciliten el trabajo diario de los
 flowchart TD
     accTitle: Ciclo de mejora de los sistemas digitales
     accDescr: Escuchar necesidades, simplificar procesos, probar con las personas y ajustar según los resultados. El ciclo vuelve a comenzar con la escucha.
-    escuchar["Escuchar necesidades"] --> simplificar["Simplificar procesos"]
-    simplificar --> probar["Probar con las personas"]
-    probar --> ajustar["Ajustar según los resultados"]
+    escuchar["Escuchar"] --> simplificar["Simplificar"]
+    simplificar --> probar["Probar"]
+    probar --> ajustar["Ajustar"]
     ajustar --> escuchar
 ```
 
