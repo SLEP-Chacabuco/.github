@@ -1,25 +1,13 @@
+# Servicio Local de Educación Pública de Chacabuco
 
-# Servicio Local de Educación Pública Chacabuco
+El SLEP Chacabuco provee educación pública a través de los establecimientos educacionales de su dependencia en **Colina, Lampa y Tiltil**, en la Región Metropolitana.
 
-Bienvenidos al espacio oficial de desarrollo tecnológico del Servicio Local de Educación Pública Chacabuco.
+## Desarrollo tecnológico
 
-## Sobre nosotros
+Este espacio reúne los repositorios públicos que el SLEP Chacabuco utiliza para compartir y documentar sus herramientas y proyectos digitales. El repositorio [`.github`](https://github.com/SLEP-Chacabuco/.github) contiene el archivo que se muestra en este perfil.
 
-Este espacio está destinado a la publicación y documentación de proyectos tecnológicos, herramientas y soluciones digitales desarrolladas por el SLEP Chacabuco.
+## Enlaces institucionales
 
-## Proyectos tecnológicos
-
-Aquí se podrán encontrar repositorios asociados a:
-
-- Desarrollo de aplicaciones institucionales.
-- Automatización y optimización de procesos.
-- Herramientas de gestión y soporte.
-- Documentación técnica y proyectos de código abierto.
-
-## Transparencia y colaboración
-
-Promovemos buenas prácticas de desarrollo de software, documentación, seguridad y colaboración tecnológica.
-
----
-
-**Servicio Local de Educación Pública Chacabuco**
+- [Sitio web del SLEP Chacabuco](https://slepchacabuco.gob.cl/)
+- [Dirección de Educación Pública](https://dep.gob.cl/)
+- [Ley N.º 21.040, que crea el Sistema de Educación Pública](https://www.bcn.cl/leychile/navegar?idLey=21040)
