@@ -6,16 +6,6 @@ El SLEP Chacabuco provee educación pública a través de los establecimientos e
 
 Nuestra visión es que los sistemas digitales faciliten el trabajo diario de los equipos del Servicio Local y de los establecimientos, y que los procesos sean más claros para las comunidades educativas. Partimos de las necesidades de quienes usan los sistemas, simplificamos los pasos, probamos las soluciones con las personas y usamos sus comentarios para seguir mejorando.
 
-```mermaid
-flowchart TD
-    accTitle: Ciclo de mejora de los sistemas digitales
-    accDescr: Escuchar necesidades, simplificar procesos, probar con las personas y ajustar según los resultados. El ciclo vuelve a comenzar con la escucha.
-    escuchar["Escuchar"] --> simplificar["Simplificar"]
-    simplificar --> probar["Probar"]
-    probar --> ajustar["Ajustar"]
-    ajustar --> escuchar
-```
-
 ## Investigación y aprendizaje
 
 Nos interesa explorar cómo los modelos de lenguaje y otras tecnologías pueden apoyar tareas como la búsqueda de información y la elaboración de borradores. Queremos evaluar su utilidad, sus errores y sus límites con resguardo de los datos y revisión humana de los resultados.
